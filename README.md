@@ -1,3 +1,3 @@
-# maven-project
+# devops-assignment
 
 Simple Maven Project
