@@ -1,3 +1,1 @@
-# devops-assignment
-
-Dobara commit
+devops assignment
