@@ -1,4 +1,4 @@
-Devops-Assignment 2
+Devops Assignment 2
 Tools used:
 1. GitHub
 2. Jenkins
