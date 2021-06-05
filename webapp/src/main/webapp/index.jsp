@@ -93,7 +93,7 @@
 <!-- about section start -->
    <div class="layout_padding about_section ">
 		<div class="container">
-			<h1 class="about_title">About <span style="background-color: ; color: #fff; padding: 0px 5px;">Us</span></h1>
+			<h1 class="about_title">About <span style="background-color: red; color: #fff; padding: 0px 5px;">Us</span></h1>
 			<div class="about_bg">
 				<div class="row">
 					<div class="col-md-8">
