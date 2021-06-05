@@ -114,7 +114,7 @@
 	<!-- our furniture section start -->
 	<div class="our_furniture_section layout_padding">
 		<div class="container">
-			<h1 class="about_title">Our <span style="background-color: #900C3F; color: #fff; padding: 0px 5px;">Furnitures</span></h1>
+			<h1 class="about_title">Our <span style="background-color: red; color: #fff; padding: 0px 5px;">Furnitures</span></h1>
 		</div>
 	</div>
 	<div class="our_section_2">
